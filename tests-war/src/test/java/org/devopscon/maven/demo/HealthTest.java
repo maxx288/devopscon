@@ -15,7 +15,7 @@ public class HealthTest {
 
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
-		appurl = "http://localhost:8081/helloworld"
+		appurl = "http://localhost:8081/helloworld";
 	}
 
 
