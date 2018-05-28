@@ -41,7 +41,7 @@
 						<configuration>
 							<skipTests>false</skipTests>
 							<systemPropertyVariables>
-								<appurl>${appurl}</appurl>
+								<appurl>http://localhost:8081/helloworld</appurl>
 							</systemPropertyVariables>
 						</configuration>
 					</plugin>
